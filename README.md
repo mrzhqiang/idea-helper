@@ -5,7 +5,7 @@
 作为一个Java语言的爱好者，近些年一直受益于IDEA的帮助，并在不断成长的过程中，见证IDEA的各种奇迹。尽管在某些方面，限于经济而无法做到反哺，但凭借翻译工具，将IDEA的帮助文档，也算是一种补偿和idea。
 
 ## 目录
-- [ ]  [遇见IDEA]()
+- [ ]  [遇见IDEA](https://github.com/mrzhqiang/idea-helper/tree/master/1.Meet%20IntelliJ%20IDEA)
 - [ ]  [配置环境]()
 - [ ]  [配置项目]()
 - [ ]  [使用源码]()
