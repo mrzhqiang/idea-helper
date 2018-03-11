@@ -4,7 +4,7 @@
 ## 用户界面
 IntelliJ IDEA[编辑器](https://www.jetbrains.com/help/idea/editor-basics.html)在很多方面都很特别，最值得注意的是，你可以在不离开编辑器的情况下，调用几乎所有的IDE特性，这允许你组织一个布局，在那里你有更多的屏幕空间，因为辅助控件是隐藏的，比如工具栏和窗口。
 
-![idea-editor-layout](https://github.com/mrzhqiang/idea-helper/blob/master/1.Meet%20IntelliJ%20IDEA/2.Discover%20IntelliJ%20IDEA/image/idea-editor-layout.png)
+![idea_editor_layout](https://github.com/mrzhqiang/idea-helper/blob/master/1.Meet%20IntelliJ%20IDEA/2.Discover%20IntelliJ%20IDEA/image/idea_editor_layout.png)
 
 要打开一个工具窗口，可以通过它的快捷方式，将输入焦点移动到窗口中，这样你就可以在它的上下文中，使用所有的键盘命令。当你需要回到编辑器时，请按下`Escape`键。
 
