@@ -4,7 +4,7 @@
 ## 用户界面
 IntelliJ IDEA[编辑器](https://www.jetbrains.com/help/idea/editor-basics.html)在很多方面都很特别，最值得注意的是，你可以在不离开编辑器的情况下，调用几乎所有的IDE特性，这允许你组织一个布局，在那里你有更多的屏幕空间，因为辅助控件是隐藏的，比如工具栏和窗口。
 
-![idea-editor-layout](https://github.com/mrzhqiang/idea-helper/blob/master/1.Meet%20IntelliJ%20IDEA/2.Discover%20IntelliJ%20IDEA/image/idea-editor-layout.png)
+![idea_editor_layout](https://github.com/mrzhqiang/idea-helper/blob/master/1.Meet%20IntelliJ%20IDEA/2.Discover%20IntelliJ%20IDEA/image/idea_editor_layout.png)
 
 要打开一个工具窗口，可以通过它的快捷方式，将输入焦点移动到窗口中，这样你就可以在它的上下文中，使用所有的键盘命令。当你需要回到编辑器时，请按下`Escape`键。
 
@@ -99,9 +99,11 @@ IDEA可以一次选择多个代码块，你可以通过`Alt+J`选择/取消任�
 
 注意，你可以通过这些操作打开任意的工具窗口：
 
-- **导航到类：**按`Ctrl+N`快捷键，支持复杂的表达式，导航到包括驼峰、路径、行等的中间名匹配。如果你两次调用它，将显示超出当前工程的结果。
-- **导航到文件：**按`Ctrl+Shift+N`快捷键，仅用于文件和文件夹。要导航到文件夹，末尾要加上`\`字符。
-- **导航到名称：**按`Ctrl+Shift+Alt+N`快捷键，允许通过名字查找方法和字段。
+导航到类：按`Ctrl+N`快捷键，支持复杂的表达式，导航到包括驼峰、路径、行等的中间名匹配。如果你两次调用它，将显示超出当前工程的结果。
+
+导航到文件：按`Ctrl+Shift+N`快捷键，仅用于文件和文件夹。要导航到文件夹，末尾要加上`\`字符。
+
+导航到名称：按`Ctrl+Shift+Alt+N`快捷键，允许通过名字查找方法和字段。
 
 #### 结构
 当你不在文件之间切换时，你很可能只在一个文件中导航。最简单的方法是按下`Ctrl+F12`快捷键。弹出一个窗口显示文件结构，并允许你快速导航到任何位置：
