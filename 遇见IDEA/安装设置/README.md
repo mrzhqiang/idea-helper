@@ -4,7 +4,7 @@
 - [首次运行](#首次运行)
 - [注册/登记](#注册/登记)
 - [更新](#更新)
-- [ToolboxApp管理](#ToolboxApp管理)
+- [工具箱管理](#工具箱管理)
 - [静默安装](#静默安装)
 - [snap包安装](#snap包安装)
 
@@ -151,7 +151,7 @@ IDEA 的更新通常是基于补丁，它们应用于现有的安装，并只要
 *小提示：如果您喜欢集中式的方法来管理所有开发工具(包括更新它们)，请使用 [Toolbox](https://www.jetbrains.com/help/idea/install-and-set-up-intellij-idea.html#toolbox-app) 应用程序。*
 
 
-## ToolboxApp管理
+## 工具箱管理
 `Toolbox App` 是一个控制面板，它允许您从一个单一的访问点管理所有 JetBrains 开发工具，包括 IDEA 以及您的项目。它允许您维护相同工具的不同版本，安装更新，并在需要时将其回滚。它还记得您的 JetBrains 帐户，并使用它在您安装和注册新工具时自动记录您的信息。
 
 *小提示：在 IntelliJ IDEA 中引入了重大的变化时，您将需要下载并安装新版本，如[安装和设置](#安装和设置)。*
