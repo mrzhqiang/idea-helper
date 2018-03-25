@@ -148,7 +148,7 @@ IDEA 的更新通常是基于补丁，它们应用于现有的安装，并只要
 
 出于某种原因，你不想安装建议的更新，你可以在更新对话框中，点击 `Ignore This Update` 按钮来忽略它。被忽略的构建的数字将被添加到被忽略的更新列表中，并且您将不会被提示安装这个特定的构建，直到您 [remove it from the list](https://www.jetbrains.com/help/idea/keep-intellij-idea-up-to-date.html#manage_ignored_updates) 它。
 
-*小提示：如果您喜欢集中式的方法来管理所有开发工具(包括更新它们)，请使用 [Toolbox](https://www.jetbrains.com/help/idea/install-and-set-up-intellij-idea.html#toolbox-app) 应用程序。*
+*小提示：如果您喜欢集中式的方法来管理所有开发工具(包括更新它们)，请使用 [工具箱管理](#工具箱管理) 。*
 
 
 ## 工具箱管理
