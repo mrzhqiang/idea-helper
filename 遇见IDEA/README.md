@@ -27,6 +27,6 @@
 
 
 # ——
-**向前** [idea-helper](https://github.com/mrzhqiang/idea-helper/)
+**返回** [idea-helper](https://github.com/mrzhqiang/idea-helper/)
 
 **下一步** [安装设置](https://github.com/mrzhqiang/idea-helper/tree/master/遇见IDEA/安装设置/)

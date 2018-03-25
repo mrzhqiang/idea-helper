@@ -343,6 +343,6 @@ IntelliJ IDEA 会在您编辑时自动应用您在 [Code Style settings](https:/
 
 
 # ——
-**向前** [安装设置](https://github.com/mrzhqiang/idea-helper/blob/master/遇见IDEA/安装设置/)
+**返回** [遇见IDEA](https://github.com/mrzhqiang/idea-helper/blob/master/遇见IDEA/)
 
 **下一步** [智能快捷键](https://github.com/mrzhqiang/idea-helper/blob/master/遇见IDEA/智能快捷键/)

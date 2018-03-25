@@ -226,6 +226,6 @@ IntelliJ IDEA 通过两个渠道发布：
 
 
 # ——
-**向前** [遇见IDEA](https://github.com/mrzhqiang/idea-helper/blob/master/遇见IDEA/)
+**返回** [遇见IDEA](https://github.com/mrzhqiang/idea-helper/blob/master/遇见IDEA/)
 
 **下一步** [探索](https://github.com/mrzhqiang/idea-helper/blob/master/遇见IDEA/探索)
