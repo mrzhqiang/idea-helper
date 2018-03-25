@@ -4,9 +4,9 @@
 - [首次运行](#首次运行)
 - [注册/登记](#注册/登记)
 - [更新](#更新)
-- [通过 Toolbox App 管理 IDEA](#通过 Toolbox App 管理 IDEA)
-- [在 Windows 系统上执行静默安装](#在 Windows 系统上执行静默安装)
-- [在 Linux 系统上作为一个 snap 包安装](#在 Linux 系统上作为一个 snap 包安装)
+- [通过ToolboxApp管理IDEA](#通过ToolboxApp管理IDEA)
+- [在Windows系统上执行静默安装](#在Windows系统上执行静默安装)
+- [在Linux系统上作为一个snap包安装](#在Linux系统上作为一个snap包安装)
 
 ## 安装要求
 
@@ -151,7 +151,7 @@ IDEA 的更新通常是基于补丁，它们应用于现有的安装，并只要
 *小提示：如果您喜欢集中式的方法来管理所有开发工具(包括更新它们)，请使用 [Toolbox](https://www.jetbrains.com/help/idea/install-and-set-up-intellij-idea.html#toolbox-app) 应用程序。*
 
 
-## 通过 Toolbox App 管理 IDEA
+## 通过ToolboxApp管理IDEA
 `Toolbox App` 是一个控制面板，它允许您从一个单一的访问点管理所有 JetBrains 开发工具，包括 IDEA 以及您的项目。它允许您维护相同工具的不同版本，安装更新，并在需要时将其回滚。它还记得您的 JetBrains 帐户，并使用它在您安装和注册新工具时自动记录您的信息。
 
 *小提示：在 IntelliJ IDEA 中引入了重大的变化时，您将需要下载并安装新版本，如[安装和设置](#安装和设置)。*
@@ -165,7 +165,7 @@ IDEA 的更新通常是基于补丁，它们应用于现有的安装，并只要
 ![toolbox_app](https://github.com/mrzhqiang/idea-helper/blob/master/遇见IDEA/安装设置/image/toolbox_app.png)
 
 
-## 在 Windows 系统上执行静默安装
+## 在Windows系统上执行静默安装
 静默安装没有任何用户界面。它可以被网络管理员用来在一些机器上安装 IntelliJ IDEA，避免打断其他用户。
 
 要执行静默安装，请使用以下开关运行安装程序：
@@ -187,7 +187,7 @@ ideaIU.exe /S /CONFIG=d:\temp\silent.config /D=d:\IDE\IntelliJ IDEA Ultimate
 
 *小提示：默认的静默配置文件对每个 JetBrains 产品都是唯一的。 您可以修改它以根据需要启用或禁用各种安装选项。*
 
-## 在 Linux 系统上作为一个 snap 包安装
+## 在Linux系统上作为一个snap包安装
 您可以在 Linux 上作为一个独立的 [snap](https://snapcraft.io/) 包来安装 IntelliJ IDEA，由于快照会自动更新，您的 IntelliJ IDEA 安装将始终是最新的版本。
 
 *小提示：如 [installation guide](https://docs.snapcraft.io/core/install) 中所述，在您的机器上使用快照、安装和运行 `snapd` 服务。在 Ubuntu 16.04 LTS 和之后，这个服务是预先安装的。*
