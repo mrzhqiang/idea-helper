@@ -337,7 +337,7 @@ IntelliJ IDEA 会在您编辑时自动应用您在 [Code Style settings](https:/
 
 
 ## 接下来
-您可以观看 IntelliJ IDEA 概述的快速视频，了解 IntelliJ IDEA 在代码完成、检查、格式化等方面提供的内容。
+您可以观看 IntelliJ IDEA 概述的[快速视频](https://youtu.be/GSKERVTMWqs)，了解 IntelliJ IDEA 在代码完成、检查、格式化等方面提供的内容。
 
 有关更详细的信息，我们强烈建议您阅读文档。 另外，您可能会发现在 [Java SE](https://www.jetbrains.com/help/idea/java-se.html) 下参考 Java 教程以及在 [Java EE](https://www.jetbrains.com/help/idea/developing-a-java-ee-application.html) 上的教程也很有用。
 
