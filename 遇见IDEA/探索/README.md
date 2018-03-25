@@ -14,8 +14,8 @@
 - [编译](#编译)
 - [运行和调试](#运行和调试)
 - [应用服务器](#应用服务器)
-- [使用构建工具（Maven 和 Gradle）](#使用构建工具（Maven 和 Gradle）)
-- [从 Eclipse 或 NetBeans 迁移](#从 Eclipse 或 NetBeans 迁移)
+- [使用构建工具](#使用构建工具)
+- [迁移](#迁移)
 - [接下来](#接下来)
 
 ## 用户界面
@@ -317,7 +317,7 @@ IntelliJ IDEA 会在您编辑时自动应用您在 [Code Style settings](https:/
 了解更多细节，请参阅：[Working with Application Servers](https://www.jetbrains.com/help/idea/working-with-application-servers.html)。
 
 
-## 使用构建工具（Maven 和 Gradle）
+## 使用构建工具
 一旦你导入/创建了 Maven/Gradle 项目，你就可以直接在编辑器中编辑它的 `pom.xml` 或 `build.gradle` 文件。 最终需要与 IntelliJ IDEA 中的项目模型同步，才能对底层构建配置进行任何更改。
 
 如果您希望 IDE 立即同步更改，请执行以下操作：
@@ -332,8 +332,8 @@ IntelliJ IDEA 会在您编辑时自动应用您在 [Code Style settings](https:/
 了解更多细节，请参阅：[Gradle](https://www.jetbrains.com/help/idea/gradle.html)。
 
 
-## 从 Eclipse 或 NetBeans 迁移
-如果您正在考虑从Eclipse或NetBeans迁移到IntelliJ IDEA的可能性，请参阅 [Eclipse](https://www.jetbrains.com/help/idea/eclipse.html) 或 [NetBeans](https://www.jetbrains.com/help/idea/netbeans.html) 的迁移指南。
+## 迁移
+如果您正在考虑从 Eclipse 或 NetBeans 迁移到 IntelliJ IDEA 的可能性，请参阅 [Eclipse](https://www.jetbrains.com/help/idea/eclipse.html) 或 [NetBeans](https://www.jetbrains.com/help/idea/netbeans.html) 的迁移指南。
 
 
 ## 接下来
