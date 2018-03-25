@@ -1,7 +1,7 @@
 # 遇见IDEA
 - [x]  [安装设置](https://github.com/mrzhqiang/idea-helper/tree/master/遇见IDEA/安装设置)
 - [x]  [探索](https://github.com/mrzhqiang/idea-helper/tree/master/遇见IDEA/探索)
-- [ ]  [智能快捷键](https://github.com/mrzhqiang/idea-helper/tree/master/遇见IDEA/智能快捷键)
+- [x]  [智能快捷键](https://github.com/mrzhqiang/idea-helper/tree/master/遇见IDEA/智能快捷键)
 - [ ]  [专业技巧](https://github.com/mrzhqiang/idea-helper/tree/master/遇见IDEA/专业技巧)
 - [ ]  [保持更新](https://github.com/mrzhqiang/idea-helper/tree/master/遇见IDEA/保持更新)
 - [ ]  [获取帮助](https://github.com/mrzhqiang/idea-helper/tree/master/遇见IDEA/获取帮助)
