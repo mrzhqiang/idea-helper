@@ -1,5 +1,8 @@
 # idea-helper
-立志于翻译 [IntelliJ IDEA 帮助文档](https://www.jetbrains.com/help/idea/meet-intellij-idea.html)，不定期更新。
+立志于翻译 [IntelliJ IDEA 帮助文档](https://www.jetbrains.com/help/idea/)，不定期更新。
+
+文档版本信息：
+> IntelliJ IDEA 2017.3 Help
 
 
 ## 关于IDEA
