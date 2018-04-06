@@ -80,4 +80,4 @@ IntelliJ IDEA 提供了几种学习快捷键的可能性：
 # ——
 **返回** [遇见IDEA](https://github.com/mrzhqiang/idea-helper/blob/master/遇见IDEA/)
 
-**下一步** [专业技巧](https://github.com/mrzhqiang/idea-helper/tree/master/遇见IDEA/专业技巧)
+**下一步** [专业提示](https://github.com/mrzhqiang/idea-helper/tree/master/遇见IDEA/专业提示)
