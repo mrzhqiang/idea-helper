@@ -16,26 +16,26 @@
 ### 区分大小写
 默认情况下，IntelliJ IDEA 代码补全的大小写敏感性仅受键入的第一个字母影响（匹配首字母），可以在 **Settings/Preferences** 对话框（`Ctrl+Alt+S`）的 **Editor | General | Code Completion** 面板菜单中更改此策略，因此，可以让 IDE 对所有字母都敏感（匹配单词），或使其都不敏感（匹配所有字母），这取决于你的选择。
 
-![code_completion](https://github.com/mrzhqiang/idea-helper/blob/master/遇见IDEA/专业技巧/image/code_completion.png)
+![code_completion](https://github.com/mrzhqiang/idea-helper/blob/master/遇见IDEA/专业提示/image/code_completion.png)
 
 *温馨提示：在这个面板菜单中，如果你希望以主动方式显示代码补全弹窗，你也可以取消勾选 __Autopopup code completion__ 选项，这也是一种好的策略。*
 
 ### 禁用在插入符号处突出显示元素的用法
 讨论到关于默认设置，在学习 IntelliJ IDEA 的更多知识后，你可能想要修改它。那么不能错过 **Settings/Preferences** 对话框的 **Editor | General** 页面中 **Highlight usages of element at caret** 选项。如果你知道 `Ctrl+Shift+F7` 快捷键，并且不喜欢在每次简单移动插入符号时，编辑器中的高亮显示都在出现和消失，则不需要勾选此选项。
 
-![highlight_usages_option](https://github.com/mrzhqiang/idea-helper/blob/master/遇见IDEA/专业技巧/image/highlight_usages_option.png)
+![highlight_usages_option](https://github.com/mrzhqiang/idea-helper/blob/master/遇见IDEA/专业提示/image/highlight_usages_option.png)
 
 ### 驼峰式
 默认情况下，当你在编辑器中选择任何内容时，IntelliJ IDEA 对单词的大小写并不敏感。如果你喜欢根据 **驼峰式** 匹配选择单词，例如，只选择单词的一部分，你可以在 **Settings/Preferences** 对话框的 **Editor | General | Smart Keys** 面板菜单中勾选此选项。
 
-![camelHumpsOption](https://github.com/mrzhqiang/idea-helper/blob/master/遇见IDEA/专业技巧/image/camelHumpsOption.png)
+![camelHumpsOption](https://github.com/mrzhqiang/idea-helper/blob/master/遇见IDEA/专业提示/image/camelHumpsOption.png)
 
 ### Hippie 完成
 IntelliJ IDEA 通过 `Ctrl+Space`、`Ctrl+Shift+Space` 和 `Ctrl+Shift+Enter` 快捷键，提供 [Basic completion][]、[Smart completion][] 和 [Statement completion][] 功能。所有这些功能都是基于对代码结构的实际理解，但是，有时您可能需要一个更简单、但又灵活的逻辑，它会建议在当前文件中使用的单词，甚至是整个项目，而不考虑它们的上下文。此功能称为 [Hippie completion][]，可通过 `Alt+/` 激活。
 
-![expandWord2](https://github.com/mrzhqiang/idea-helper/blob/master/遇见IDEA/专业技巧/image/expandWord2.png)
+![expandWord2](https://github.com/mrzhqiang/idea-helper/blob/master/遇见IDEA/专业提示/image/expandWord2.png)
 
-![expandWord1](https://github.com/mrzhqiang/idea-helper/blob/master/遇见IDEA/专业技巧/image/expandWord1.png)
+![expandWord1](https://github.com/mrzhqiang/idea-helper/blob/master/遇见IDEA/专业提示/image/expandWord1.png)
 
 
 ## 重构
