@@ -124,6 +124,9 @@ IntelliJ IDEA 可以分析代码中的组件的依赖关系，你需要密切关
 
 如果你更喜欢使用鼠标而不是键盘快捷键，这样你就不需要打开 **Debug** 工具窗口来管理当前的调试会话。
 
+![buttons_on_navbar](https://github.com/mrzhqiang/idea-helper/blob/master/遇见IDEA/专业提示/image/buttons_on_navbar.png)
+
+
 ## 编辑器
 
 # ——
