@@ -33,7 +33,7 @@ IntelliJ IDEA 提供了几种学习快捷键的可能性：
 
     按下 `Ctrl+Alt+A` 快捷键，然后开始键入，以获取建议动作的列表。
 
-    ![gotoAction](https://github.com/mrzhqiang/idea-helper/tree/master/遇见IDEA/智能快捷键/image/gotoAction.png)
+    ![gotoAction](https://github.com/mrzhqiang/idea-helper/blob/master/遇见IDEA/智能快捷键/image/gotoAction.png)
 
     你可以选择必要的命令并按 `Enter` 执行它。
 
