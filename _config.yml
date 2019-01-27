@@ -13,20 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: idea-helper
+email: qiang.zhang0314@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
+  这是 IDEA 帮助文档的中文翻译项目。
+baseurl: "/idea-helper" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username:  mrzhqiang
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
@@ -41,3 +39,11 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Enable or disable the site search
+search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "在 GitHub 上查看":
+    - "//github.com/mrzhqiang/idea-helper"

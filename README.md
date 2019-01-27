@@ -1,59 +1,33 @@
-[IntelliJ IDEA]:https://www.jetbrains.com/idea/
-[官方帮助文档]:https://www.jetbrains.com/help/idea/
-
-[认识IDEA]:https://github.com/mrzhqiang/idea-helper/tree/master/认识IDEA/
-[配置环境]:https://github.com/mrzhqiang/idea-helper/tree/master/配置环境/
-[配置项目]:https://github.com/mrzhqiang/idea-helper/tree/master/配置项目/
-[使用源码]:https://github.com/mrzhqiang/idea-helper/tree/master/使用源码/
-[编译、运行、测试、部署应用]:https://github.com/mrzhqiang/idea-helper/tree/master/编译、运行、测试、部署应用/
-[分析应用]:https://github.com/mrzhqiang/idea-helper/tree/master/分析应用/
-[使用版本控制]:https://github.com/mrzhqiang/idea-helper/tree/master/使用版本控制/
-[管理任务和上下文]:https://github.com/mrzhqiang/idea-helper/tree/master/管理任务和上下文/
-[迁移指南]:https://github.com/mrzhqiang/idea-helper/tree/master/迁移指南/
-[语言和特定框架指导]:https://github.com/mrzhqiang/idea-helper/tree/master/语言和特定框架指导/
-[教程]:https://github.com/mrzhqiang/idea-helper/tree/master/教程/
-[参考]:https://github.com/mrzhqiang/idea-helper/tree/master/参考/
-[发送反馈]:https://github.com/mrzhqiang/idea-helper/tree/master/发送反馈/
-
-[Issues]:https://github.com/mrzhqiang/idea-helper/issues/
-[Pull requests]:https://github.com/mrzhqiang/idea-helper/pulls/
-
-
 # idea-helper
-立志于翻译 [IntelliJ IDEA] 的 [官方帮助文档]，不定期更新。
+此仓库基于 [Jekyll][1] 构建的 [IntelliJ IDEA][2] 帮助文档翻译库，是为了让初学者更好地掌握 [IntelliJ IDEA][2] 这个开发神器。
 
-当前文档版本：
-> IntelliJ IDEA 2018.1 Help
+[![Release](https://img.shields.io/github/release/mrzhqiang/idea-helper.svg)](https://github.com/mrzhqiang/idea-helper/releases/latest)
+[![Build Status](https://travis-ci.org/mrzhqiang/idea-helper.svg?branch=master)](https://travis-ci.org/mrzhqiang/idea-helper)
 
+## 主题
+当前使用：[just-the-docs][3]，因为它简洁、易用，对初次使用 [Jekyll][1] 非常友好。
 
-## 关于 IntelliJ IDEA
-[IntelliJ IDEA] 是 `Java` 开发工具，**智能提示**、**代码重构**、**代码调试** 是我最喜欢的三大功能：
-- 智能提示：提升编码效率，更快掌握 API，找到最优选择
-- 代码重构：快速重组代码结构，掌握快捷键不再需要鼠标
-- 代码调试：更友好的界面，看内存值、看变量值，不放过任何细节
+## 在线查看
+请访问：[idea-helper]。
 
+### 本地预览？
+- 安装[开发环境][4]
+- 安装 [Jekyll][1]
+```bash
+$ gem install jekyll bundler
+```
+- 开启本地预览
+```bash
+$ bundle exec jekyll serve
+```
+- 打开浏览器并访问 [http://localhost:4000](http://localhost:4000)
 
-## 目录
-- [ ] [认识IDEA]
-- [ ] [配置环境]
-- [ ] [配置项目]
-- [ ] [使用源码]
-- [ ] [编译、运行、测试、部署应用]
-- [ ] [分析应用]
-- [ ] [使用版本控制]
-- [ ] [管理任务和上下文]
-- [ ] [迁移指南]
-- [ ] [语言和特定框架指导]
-- [ ] [教程]
-- [ ] [参考]
-- [ ] [发送反馈]
+### 声明
+**此仓库仅用于学习交流使用，不得用于任何商业目的。**
 
+[idea-helper]:https://mrzhqiang.github.io/idea-helper
 
-## 说明
-- **小提示** 表示从帮助文档不显眼的右侧区域翻译而来，一般是使用建议或者相关提示
-- **译者注** 使用破折号 `——` 表示，大部分情况下，是一些使用上的吐槽
-- **超链接** 如果指向的内容已经翻译，则标题为中文；否则显示为英文
-- **章节目录** 每一章都有目录，可直接跳到某一节内容，而每一节都有一个标题锚（#）
-- **图片** 大多数图片都是直接从官方下载，部分可能会重新截图
-
-有时难免机翻，若有失误，还望指出。
+[1]:https://jekyllrb.com/
+[2]:https://www.jetbrains.com/idea/?fromMenu
+[3]:https://pmarsceill.github.io/just-the-docs/
+[4]:https://jekyllrb.com/docs/installation/
