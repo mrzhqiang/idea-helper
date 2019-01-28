@@ -20,11 +20,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/idea-helper" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  mrzhqiang
+github_username: mrzhqiang
 
 # Build settings
 markdown: kramdown
-remote_theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
