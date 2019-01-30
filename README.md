@@ -14,13 +14,19 @@
 - 安装[开发环境][4]
 - 安装 [Jekyll][1]
 ```bash
-$ gem install jekyll bundler
+$ sudo gem install jekyll bundler
+```
+- 安装主题
+```bash
+$ sudo gem install just-the-docs
 ```
 - 开启本地预览
 ```bash
 $ bundle exec jekyll serve
 ```
 - 打开浏览器并访问 [http://localhost:4000](http://localhost:4000)
+
+**注意：如果本地预览无效，请打开 `_config.yml` 第 28 行的注释，再开启本地预览。**
 
 ### 声明
 **此仓库仅用于学习交流使用，不得用于任何商业目的。**
