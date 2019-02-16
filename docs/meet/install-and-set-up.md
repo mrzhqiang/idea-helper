@@ -14,7 +14,7 @@ permalink: /meet/install-and-set-up
 ## 目录
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
 
 ---
@@ -231,7 +231,7 @@ IntelliJ IDEA 更新通常是 *patch-based*（基于补丁的）：它们被应�
 
 ---
 
-## 在Windows上进行静默安装
+## 在 Windows 上进行静默安装
 静默安装，即在没有任何用户界面的情况下执行。网络管理员可以使用它来将 IntelliJ IDEA 安装在多台计算机上，并避免中断其他用户。
 
 要执行静默安装，请使用以下开关运行安装程序：
@@ -272,7 +272,7 @@ bin\uninstall.exe /S
 
 ---
 
-## 在Linux上作为snap包安装
+## 在 Linux 上作为 snap 包安装
 您可以将 Linux 上的 IntelliJ IDEA 作为自包含的 [snap] 软件包进行安装 ，由于快照会自动更新，你的 IntelliJ IDEA 安装将始终是最新的版本。
 
 <span class="d-inline-block p-3 bg-yellow-000">
