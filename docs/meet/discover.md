@@ -1,72 +1,25 @@
-[认识IDEA]:https://github.com/mrzhqiang/idea-helper/blob/master/认识IDEA/
-[智能快捷键]:https://github.com/mrzhqiang/idea-helper/blob/master/认识IDEA/智能快捷键/
-
-[Editor]:https://www.jetbrains.com/help/idea/editor-basics.html
-[Distraction Free Mode]:https://www.jetbrains.com/help/idea/intellij-idea-viewing-modes.html#distraction_free
-[Navigation Bar]:https://www.jetbrains.com/help/idea/navigation-bar.html
-[Project Tool Window]:https://www.jetbrains.com/help/idea/project-tool-window.html
-[speed search]:https://www.jetbrains.com/help/idea/speed-search-in-the-tool-windows.html
-[Guided Tour around the User Interface]:https://www.jetbrains.com/help/idea/guided-tour-around-the-user-interface.html
-[Editor basics]:https://www.jetbrains.com/help/idea/editor-basics.html
-[Working with Tool Windows]:https://www.jetbrains.com/help/idea/working-with-tool-windows.html
-[Local History]:https://www.jetbrains.com/help/idea/local-history.html
-[Editor basics]:https://www.jetbrains.com/help/idea/editor-basics.html
-[Basic Completion]:https://www.jetbrains.com/help/idea/auto-completing-code.html#basic_completion
-[Smart Completion]:https://www.jetbrains.com/help/idea/auto-completing-code.html#smart_completion
-[Statement Completion]:https://www.jetbrains.com/help/idea/auto-completing-code.html#statements_completion
-[Postfix Completion]:https://www.jetbrains.com/help/idea/auto-completing-code.html#postfix_completion
-[Auto-Completing Code]:https://www.jetbrains.com/help/idea/auto-completing-code.html
-[Navigating Through the Source Code.]:https://www.jetbrains.com/help/idea/navigating-through-the-source-code.html
-[Project Tool Window]:https://www.jetbrains.com/help/idea/project-tool-window.html
-[Refactoring Source Code]:https://www.jetbrains.com/help/idea/refactoring-source-code.html
-[Finding Usages]:https://www.jetbrains.com/help/idea/finding-usages.html
-[Code Inspection]:https://www.jetbrains.com/help/idea/code-inspection.html
-[Code Style settings]:https://www.jetbrains.com/help/idea/code-style.html
-[Java code style settings]:https://www.jetbrains.com/help/idea/code-style-java.html
-[Reformatting Source Code]:https://www.jetbrains.com/help/idea/editor-basics.html#reformat_rearrange_code
-[Welcome Screen]:https://www.jetbrains.com/help/idea/welcome-screen.html
-[VCS operations pop-up]:https://www.jetbrains.com/help/idea/accessing-vcs-operations.html
-[Version Control tool window]:https://www.jetbrains.com/help/idea/version-control-tool-window.html
-[Local Changes]:https://www.jetbrains.com/help/idea/local-changes-tab.html
-[Version Control with IntelliJ IDEA]:https://www.jetbrains.com/help/idea/version-control-with-intellij-idea.html
-[Shelves]:https://www.jetbrains.com/help/idea/shelved-changes.html
-[stashes]:https://www.jetbrains.com/help/idea/using-git-integration.html#stash
-[patches]:https://www.jetbrains.com/help/idea/patches.html
-[Manage branches]:https://www.jetbrains.com/help/idea/using-git-integration.html#manage-branches
-[Compiling Applications]:https://www.jetbrains.com/help/idea/compiling-applications.html
-[Run/Debug configuration]:https://www.jetbrains.com/help/idea/run-debug-configurations-dialog.html
-[evaluate any expression]:https://www.jetbrains.com/help/idea/evaluating-expressions.html
-[Running]:https://www.jetbrains.com/help/idea/running-applications.html
-[Debugging]:https://www.jetbrains.com/help/idea/debugging.html
-[Working with Application Servers]:https://www.jetbrains.com/help/idea/working-with-application-servers.html
-[Gradle]:https://www.jetbrains.com/help/idea/gradle.html
-[Eclipse]:https://www.jetbrains.com/help/idea/eclipse.html
-[NetBeans]:https://www.jetbrains.com/help/idea/netbeans.html
-[快速视频]:https://youtu.be/GSKERVTMWqs
-[Java SE]:https://www.jetbrains.com/help/idea/java-se.html
-[Java EE]:https://www.jetbrains.com/help/idea/developing-a-java-ee-application.html
+---
+layout: default
+title: 探索
+parent: 遇见
+nav_order: 3
+permalink: /meet/discover
+---
 
 
 # 探索
+{: .no_toc }
+原文：[Discover]
+
 本指南旨在帮助您通过 IntelliJ IDEA 提供工作效率，并提供最重要功能以及提示、技巧和热键的概述。
 
-- [用户界面](#用户界面)
-- [编辑器基础](#编辑器基础)
-- [代码补全](#代码补全)
-- [导航](#导航)
-- [快捷弹出窗口](#快捷弹出窗口)
-- [重构基础](#重构基础)
-- [查找使用情况](#查找使用情况)
-- [检查](#检查)
-- [代码风格和格式](#代码风格和格式)
-- [版本控制基础](#版本控制基础)
-- [编译](#编译)
-- [运行和调试](#运行和调试)
-- [应用服务器](#应用服务器)
-- [使用构建工具](#使用构建工具)
-- [迁移](#迁移)
-- [接下来](#接下来)
+## 目录
+{: .no_toc .text-delta }
 
+- TOC
+{:toc}
+
+---
 
 ## 用户界面
 IntelliJ IDEA [Editor] 有许多特殊之处，最值得注意的是，你几乎可以在不离开它的情况下，调用几乎所有的 IDE 特性，这使得你可以组织布局，使其更多的屏幕空间，因为辅助控件是隐藏的，比如工具栏和窗口。
@@ -394,3 +347,52 @@ IntelliJ IDEA 会在您编辑时自动应用您在 [Code Style settings] 中配�
 **返回** [认识IDEA]
 
 **下一步** [智能快捷键]
+
+
+[认识IDEA]:https://github.com/mrzhqiang/idea-helper/blob/master/认识IDEA/
+[智能快捷键]:https://github.com/mrzhqiang/idea-helper/blob/master/认识IDEA/智能快捷键/
+
+[Editor]:https://www.jetbrains.com/help/idea/editor-basics.html
+[Distraction Free Mode]:https://www.jetbrains.com/help/idea/intellij-idea-viewing-modes.html#distraction_free
+[Navigation Bar]:https://www.jetbrains.com/help/idea/navigation-bar.html
+[Project Tool Window]:https://www.jetbrains.com/help/idea/project-tool-window.html
+[speed search]:https://www.jetbrains.com/help/idea/speed-search-in-the-tool-windows.html
+[Guided Tour around the User Interface]:https://www.jetbrains.com/help/idea/guided-tour-around-the-user-interface.html
+[Editor basics]:https://www.jetbrains.com/help/idea/editor-basics.html
+[Working with Tool Windows]:https://www.jetbrains.com/help/idea/working-with-tool-windows.html
+[Local History]:https://www.jetbrains.com/help/idea/local-history.html
+[Editor basics]:https://www.jetbrains.com/help/idea/editor-basics.html
+[Basic Completion]:https://www.jetbrains.com/help/idea/auto-completing-code.html#basic_completion
+[Smart Completion]:https://www.jetbrains.com/help/idea/auto-completing-code.html#smart_completion
+[Statement Completion]:https://www.jetbrains.com/help/idea/auto-completing-code.html#statements_completion
+[Postfix Completion]:https://www.jetbrains.com/help/idea/auto-completing-code.html#postfix_completion
+[Auto-Completing Code]:https://www.jetbrains.com/help/idea/auto-completing-code.html
+[Navigating Through the Source Code.]:https://www.jetbrains.com/help/idea/navigating-through-the-source-code.html
+[Project Tool Window]:https://www.jetbrains.com/help/idea/project-tool-window.html
+[Refactoring Source Code]:https://www.jetbrains.com/help/idea/refactoring-source-code.html
+[Finding Usages]:https://www.jetbrains.com/help/idea/finding-usages.html
+[Code Inspection]:https://www.jetbrains.com/help/idea/code-inspection.html
+[Code Style settings]:https://www.jetbrains.com/help/idea/code-style.html
+[Java code style settings]:https://www.jetbrains.com/help/idea/code-style-java.html
+[Reformatting Source Code]:https://www.jetbrains.com/help/idea/editor-basics.html#reformat_rearrange_code
+[Welcome Screen]:https://www.jetbrains.com/help/idea/welcome-screen.html
+[VCS operations pop-up]:https://www.jetbrains.com/help/idea/accessing-vcs-operations.html
+[Version Control tool window]:https://www.jetbrains.com/help/idea/version-control-tool-window.html
+[Local Changes]:https://www.jetbrains.com/help/idea/local-changes-tab.html
+[Version Control with IntelliJ IDEA]:https://www.jetbrains.com/help/idea/version-control-with-intellij-idea.html
+[Shelves]:https://www.jetbrains.com/help/idea/shelved-changes.html
+[stashes]:https://www.jetbrains.com/help/idea/using-git-integration.html#stash
+[patches]:https://www.jetbrains.com/help/idea/patches.html
+[Manage branches]:https://www.jetbrains.com/help/idea/using-git-integration.html#manage-branches
+[Compiling Applications]:https://www.jetbrains.com/help/idea/compiling-applications.html
+[Run/Debug configuration]:https://www.jetbrains.com/help/idea/run-debug-configurations-dialog.html
+[evaluate any expression]:https://www.jetbrains.com/help/idea/evaluating-expressions.html
+[Running]:https://www.jetbrains.com/help/idea/running-applications.html
+[Debugging]:https://www.jetbrains.com/help/idea/debugging.html
+[Working with Application Servers]:https://www.jetbrains.com/help/idea/working-with-application-servers.html
+[Gradle]:https://www.jetbrains.com/help/idea/gradle.html
+[Eclipse]:https://www.jetbrains.com/help/idea/eclipse.html
+[NetBeans]:https://www.jetbrains.com/help/idea/netbeans.html
+[快速视频]:https://youtu.be/GSKERVTMWqs
+[Java SE]:https://www.jetbrains.com/help/idea/java-se.html
+[Java EE]:https://www.jetbrains.com/help/idea/developing-a-java-ee-application.html
