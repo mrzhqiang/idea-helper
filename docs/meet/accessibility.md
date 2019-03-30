@@ -1,10 +1,11 @@
 ---
 layout: default
 title: 无障碍
-parent: 遇见 IDEA
+parent: 遇见
 nav_order: 2
 permalink: /meet/accessibility
 ---
+
 
 # 无障碍
 {: .no_toc }

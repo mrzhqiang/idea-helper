@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 安装和设置
-parent: 遇见 IDEA
+parent: 遇见
 nav_order: 1
 permalink: /meet/install-and-set-up
 ---

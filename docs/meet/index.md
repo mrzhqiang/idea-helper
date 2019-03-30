@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 遇见 IDEA
+title: 遇见
 nav_order: 1
 has_children: true
 permalink: /meet
